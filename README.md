@@ -1,14 +1,14 @@
-<h1>Paulo Kunrath</h1>
+<h1>Paulo Kunrath‍</h1>
  
 <h2 align="center">About Me </h2>
-<p> I'm Paulo, a 21 years old full-stack developer. My goal is to become a great software engineer to help the advance of community and tech as well. </p>
+<p> I'm Paulo Kunrath, a 21-year-old student completing my degree in Computer Science. My aspiration is to excel as a software engineer, contributing to the progress of both the community and the field of technology. </p>
 
  
 <h2 align="center">Skills </h2>
  
 <div align="center">
 <a href="https://skillicons.dev" style="display: inline-block; margin-right: 20px;">
-<img src="https://skillicons.dev/icons?i=dotnet,angular,cs,ts,js,python,mysql,html,css,sass,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,nodejs,python,cpp,cs,ts,js,mysql,html,css,sass,vscode,visualstudio,figma" />
 </a>
 </div>
  
