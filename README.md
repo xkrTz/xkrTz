@@ -42,7 +42,7 @@
 <p></p>
  
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xkrtz&theme=tokyonight" alt="xkrtz" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xkrtz&theme=yellowdark" alt="xkrtz" />
 </p>
 
 ## Onde me encontrar
