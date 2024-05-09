@@ -57,7 +57,7 @@
 <a href="https://www.linkedin.com/in/pkunrath" target="_blank">
 <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white">
 </a>
-<a href="https://kunrath1.github.io" target="_blank">
+<a href="https://xkrtz.github.io" target="_blank">
 <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
 </a>
 </p>
