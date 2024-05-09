@@ -38,12 +38,14 @@
 
 <br/>
 
-<a href="https://github.com/xkrtz" title="Perfil do xkrtz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xkrtz&theme=dracula&show_icons=true" />
-</a>
+<p align="center">
+<img align="center" src="
+https://github-readme-streak-stats.herokuapp.com/?user=xkrTz&theme=tokyonight"
+alt="xkrTz" />
+</p>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-LinkeDin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pkunrath/)]
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.kunrath0@gmail.com)]
-[![GitHub](https://img.shields.io/github/followers/xkrtz?label=follow&style=social)]
+![Linkedin](https://img.shields.io/badge/-LinkeDin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pkunrath/)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.kunrath0@gmail.com)
+![GitHub](https://img.shields.io/github/followers/xkrtz?label=follow&style=social)
