@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=xkrtz&color=006bed)
-
+<br>
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
