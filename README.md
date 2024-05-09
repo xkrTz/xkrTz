@@ -47,6 +47,17 @@
 
 ## Onde me encontrar
 
-![Linkedin](https://img.shields.io/badge/-LinkeDin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pkunrath/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.kunrath0@gmail.com)
-![GitHub](https://img.shields.io/github/followers/xkrtz?label=follow&style=social)
+<p align="center">
+<a href="https://instagram.com/pkunrath/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
+</a>
+<a href="https://twitch.com/pkrtz" target="_blank">
+<img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/pkunrath" target="_blank">
+<img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white">
+</a>
+<a href="https://kunrath1.github.io" target="_blank">
+<img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
+</a>
+</p>
