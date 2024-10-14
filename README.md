@@ -5,7 +5,7 @@
 - 🤔 Explorar o mundo e suas curiosidades é a meta.
 - 🎓 Estudando Ciência da computação na Universidade do vale do Itajai (UNIVALI).
 - 💼 Trabalhando como Full-Stack na SkyChart Web Softwares.
-- 🌱 Aprendendo mais sobre C# / TS / mySQL.
+- 🌱 Aprendendo mais sobre C# / TS / SQL Server.
 
 ## Minhas Skills
 
